@@ -1,0 +1,14 @@
+.card{
+    width:40%;
+    margin:0 auto;
+}
+
+.result{
+    width: 90%;
+    margin:0 auto;
+}
+@media screen and (max-width:900px){
+    .card{
+        width:80%;
+    }
+}
